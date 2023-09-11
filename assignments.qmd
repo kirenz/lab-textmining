@@ -2,4 +2,9 @@
 title: "Assignments"
 ---
 
-This is a Quarto slidedeck. 
+Download the Jupyter Notebooks in your local folder `textmining`. 
+
+
+- [Task 1: Textmining](https://colab.research.google.com/github/kirenz/lab-textmining/blob/main/code/1_textmining.ipynb)
+
+- [Task 2: Sentiment analyis](https://colab.research.google.com/github/kirenz/lab-textmining/blob/main/code/2_sentiment.ipynb)
