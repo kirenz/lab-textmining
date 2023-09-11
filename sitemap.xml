@@ -2,26 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://github.com/kirenz/lab-textmining/requirements.html</loc>
-    <lastmod>2023-09-10T15:12:55.568Z</lastmod>
+    <lastmod>2023-09-11T14:56:16.958Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/kirenz/lab-textmining/code/notebook.html</loc>
-    <lastmod>2023-09-10T15:12:54.364Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/kirenz/lab-textmining/assignments.html</loc>
-    <lastmod>2023-09-10T15:12:53.636Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/kirenz/lab-textmining/slide.html</loc>
-    <lastmod>2023-09-10T15:12:52.912Z</lastmod>
+    <loc>https://github.com/kirenz/lab-textmining/code/2_sentiment.html</loc>
+    <lastmod>2023-09-11T14:56:14.874Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/kirenz/lab-textmining/index.html</loc>
-    <lastmod>2023-09-10T15:12:54.000Z</lastmod>
+    <lastmod>2023-09-11T14:56:12.294Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/kirenz/lab-textmining/slide.html</loc>
+    <lastmod>2023-09-11T14:56:11.366Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/kirenz/lab-textmining/assignments.html</loc>
+    <lastmod>2023-09-11T14:56:11.982Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/kirenz/lab-textmining/code/1_textmining.html</loc>
+    <lastmod>2023-09-11T14:56:13.238Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/kirenz/lab-textmining/slides/slides.html</loc>
-    <lastmod>2023-09-10T15:12:54.820Z</lastmod>
+    <lastmod>2023-09-11T14:56:15.290Z</lastmod>
   </url>
 </urlset>
