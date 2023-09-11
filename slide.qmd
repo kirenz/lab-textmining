@@ -22,3 +22,6 @@ In this tutorial, you'll learn:
 - [🖥️ Presentation]()
 - [💻 Jupyter Notebook]()
 :::
+
+
+💻 Accept the invitation to application exercise Nr. 3 in Moodle: [💻 textmining](https://e-learning.hdm-stuttgart.de/moodle/mod/page/view.php?id=262127)
